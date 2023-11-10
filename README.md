@@ -1,4 +1,4 @@
-# EXP NO:05
+# EXP NO:06
 # DATE:
 # <p align='center'> SARSA Learning Algorithm</p>
 
